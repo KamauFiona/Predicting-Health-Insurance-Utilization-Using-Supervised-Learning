@@ -1,1 +1,3 @@
 # Predicting-Health-Insurance-Utilization-Using-Supervised-Learning
+This project uses supervised machine learning to predict healthcare insurance uptake and routine checkup behavior based on demographic and health-related factors in Kenya. The dataset was collected by SAFRA Data School through nationwide surveys. After preprocessing and exploratory analysis, models such as Logistic Regression, Random Forest, and K-Nearest Neighbors were trained and evaluated using accuracy, precision, recall, and F1-score. The best-performing model was deployed as a user-friendly Streamlit web application to support data-driven decisions in public health outreach and insurance awareness.
+
